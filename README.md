@@ -2,4 +2,5 @@
 
 Creating and deploying on rinkeby network an nft game.
 
-(link coming soon)
+check it out on:
+https://wizardly-shirley-6a4752.netlify.app/
